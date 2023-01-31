@@ -50,10 +50,8 @@ body {
     background-color: var(--clr-pale-blue);
     background-repeat: repeat-x;
     font-family: var(--ff-main);
-    display: grid;
-    place-content: center;
-    min-height: 100vh;
     text-align: center;
+    padding: 2rem;
 }
 @media screen and (max-width: 400px) {
     body {
@@ -67,6 +65,7 @@ body {
     max-width: 375px;
     background-color: white;
     border-radius: 1rem;
+    margin: 0 auto;
 }
 h1 {
     font-weight: 900;
