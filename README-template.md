@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/saykate/order-summary-component-main.git)
+- Live Site URL: [Add live site URL here](https://saykate.github.io/order-summary-component-main/)
 
 ## My process
 I accidentally started with the desktop version again, but with this card layout it didn't really seem to make much difference. I used a max-width media-query to account for changes to the background for mobile. 
